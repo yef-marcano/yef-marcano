@@ -11,6 +11,6 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://twitter.com/yef_marcano" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="santidev7" height="40" width="50" /></a>
-<a href="https://www.linkedin.com/in/yef-marcano/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="santiago-molina-dev" height="40" width="50" /></a>
+<a href="https://twitter.com/yef_marcano" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yef_marcano" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/yef-marcano/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yef-marcano" height="40" width="50" /></a>
 </p>
