@@ -15,7 +15,7 @@ let yefMarcano: Profile = {
   pronouns: "he/him",
   languages: ["Spanish", "English", "Portugues do brasil"],
   code: ["JavaScript", "PHP", "Pyton", "Dart", "HTML", "CSS"],
-  tools: ["React", "React Native", "Vue", "Svelte", "Node.js", "Threejs", "Jquery", "Codeigniter", "Laravel", "Node.js"]
+  tools: ["React", "React Native", "Vue", "Svelte", "Node.js", "Threejs", "Jquery", "Codeigniter", "Laravel", "Express.js"]
   links: {
     website: "https://ymrest.com/", // ✍️
     youtube: "https://www.youtube.com/channel/UCPtdsN7EsYZl-J-eq0ZLSVA", // 🎬
