@@ -17,7 +17,7 @@ let yefMarcano: Profile = {
   code: ["JavaScript", "PHP", "Pyton", "Dart", "HTML", "CSS"],
   tools: ["React", "React Native", "Vue", "Svelte", "Node.js", "Threejs", "Jquery", "Codeigniter", "Laravel", "Express.js"]
   links: {
-    website: "[https://ymrest.com/](https://ymrest.vercel.app/)", // ✍️
+    website: "https://ymrest.vercel.app/", // ✍️
     youtube: "https://www.youtube.com/channel/UCPtdsN7EsYZl-J-eq0ZLSVA", // 🎬
     instagram: "https://www.instagram.com/yef.marcano/", // 📷
     twitter: "https://twitter.com/yef_marcano", // 🐤
